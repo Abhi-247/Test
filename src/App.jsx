@@ -7,7 +7,7 @@ const App = () => {
       {/* This will show the date from the file in BOTH dev and prod */}
       
 
-<h1>Version 1.0 || Build {__BUILD_DATE__}</h1>
+<h1>Version 2.0 || Build {__BUILD_DATE__}</h1>
     </div>
   )
 }
